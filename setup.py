@@ -1,4 +1,4 @@
-import subprocess as sb
+vimport subprocess as sb
 import os, time
 
 uname = sb.getoutput("uname -m")
